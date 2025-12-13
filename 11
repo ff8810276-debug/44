@@ -1,0 +1,218 @@
+🧭 نقشه راه کامل DevOps → AI/MLOps
+
+(مناسب کسی که الان در حد جونیور/بینابینه و Jenkins دیده)
+
+⏱ فرض‌ها
+
+⏰ روزی ۲–۳ ساعت
+
+🎯 هدف: استخدام DevOps → حرکت به MLOps
+
+📆 کل زمان: ۹ تا ۱۲ ماه
+
+فاز 0️⃣ – پیش‌نیاز واقعی (۱ ماه)
+
+🎯 پایه‌ای که بدونش همه‌چیز می‌ریزه
+
+چی بخونی؟
+
+Linux fundamentals
+
+Networking basics
+
+Git (واقعی نه تئوری)
+
+چقدر؟
+
+روزی ۲ ساعت
+
+۵–۶ روز در هفته
+
+خروجی (خیلی مهم):
+
+SSH به سرور
+
+User, permission
+
+GitHub repo فعال
+
+فاز 1️⃣ – برنامه‌نویسی و کانتینر (۲ ماه)
+
+🎯 اینجا می‌شی DevOps واقعی
+
+چی؟
+
+Python (اسکریپت، API، automation)
+
+Docker
+
+Docker Compose
+
+چی بلد باشی؟
+
+Dockerize کردن اپ
+
+FastAPI ساده
+
+اتصال به DB
+
+خروجی:
+
+۲ پروژه Dockerized
+
+فاز 2️⃣ – CI/CD مدرن (۱ ماه)
+
+🎯 استخدام‌پذیری
+
+ابزار:
+
+GitHub Actions (اصلی)
+
+Jenkins (در حد شناخت)
+
+چی انجام بدی؟
+
+Pipeline:
+
+build
+
+test
+
+push
+
+deploy
+
+خروجی:
+
+۱ پروژه CI/CD کامل
+
+فاز 3️⃣ – Cloud + Kubernetes (۳ ماه)
+
+🎯 قلب DevOps
+
+چی؟
+
+AWS (EC2, IAM, VPC, S3)
+
+Kubernetes
+
+Nginx
+
+چی بلد باشی؟
+
+Deploy روی AWS
+
+Ingress
+
+Scaling
+
+خروجی:
+
+Kubernetes cluster واقعی
+
+Reverse proxy
+
+فاز 4️⃣ – Infrastructure & Monitoring (۲ ماه)
+
+🎯 سطح حرفه‌ای
+
+چی؟
+
+Terraform
+
+Prometheus + Grafana
+
+خروجی:
+
+IaC برای AWS
+
+داشبورد مانیتورینگ
+
+فاز 5️⃣ – ورود به AI و MLOps (۲ ماه)
+
+🎯 تمایز تو از بقیه 🔥
+
+بخش AI (نه تحقیقاتی)
+
+📌 هدف: استفاده از AI نه ساخت الگوریتم
+
+چی بخونی؟
+
+Python for ML
+
+Pandas, NumPy
+
+Scikit-learn
+
+مدل‌های آماده
+
+چی انجام بدی؟
+
+Train یه مدل ساده
+
+Save مدل
+
+Serve با FastAPI
+
+بخش MLOps
+
+📌 پل DevOps ↔ AI
+
+ابزار:
+
+Docker + ML
+
+Kubernetes
+
+MLflow
+
+Model versioning
+
+پروژه نهایی:
+
+ML model → Docker → CI/CD → Kubernetes
+
+📅 برنامه هفتگی نمونه
+روز	فعالیت
+شنبه	یادگیری
+یکشنبه	تمرین
+دوشنبه	پروژه
+سه‌شنبه	یادگیری
+چهارشنبه	پروژه
+پنجشنبه	مرور
+جمعه	استراحت
+📌 اولویت ابزارها (خیلی مهم)
+
+✅ ضروری:
+
+Linux
+
+Docker
+
+Kubernetes
+
+GitHub Actions
+
+AWS
+
+Terraform
+
+⚠️ اختیاری:
+
+Jenkins
+
+Ansible
+
+🎯 مسیر استخدام
+
+ماه ۶ → آماده جونیور DevOps
+
+ماه ۹ → DevOps قوی
+
+ماه ۱۲ → MLOps جونیور
+
+❗ حرف آخر (خیلی مهم)
+
+❌ دوره‌جمع‌کن نباش
+✅ پروژه‌محور جلو برو
+هر فاز = حداقل ۱ پروژه GitHub
